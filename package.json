@@ -32,6 +32,6 @@
     ]
   },
   "devDependencies": {
-    "@mapsindoors/components": "^3.2.2"
+    "@mapsindoors/components": "^8.2.0"
   }
 }
